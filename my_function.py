@@ -33,13 +33,13 @@
 
 # print(even_odd(10))
 
-def even_odd(num):
-    return num % 2 == 0
+# def even_odd(num):
+#     return num % 2 == 0
 
-num = 1
+# num = 1
 
-while num <= 50:
-    if even_odd(num):
-        print(num)
-    num = num + 1;
+# while num <= 50:
+#     if even_odd(num):
+#         print(num)
+#     num = num + 1;
 
